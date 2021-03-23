@@ -11,5 +11,5 @@
 
 ### Stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=javaruntimemc&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&border_radius=3) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javaruntimemc&title_color=FFFFFF&text_color=FFFFFF&border_radius=3)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=javaruntimemc&show_icons=true&title_color=000000&text_color=000000&border_radius=3) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javaruntimemc&title_color=000000&text_color=000000&border_radius=3)
