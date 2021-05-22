@@ -1,7 +1,6 @@
 ### Social Links
 
-[instagram.com](https://instagram.com/yewshanooi) <br />
-[discord.com](https://discordapp.com/users/266124126584963082/)
+[Instagram](https://instagram.com/yewshanooi) | [Discord](https://discordapp.com/users/266124126584963082/)
 
 ### Tools Used
 
