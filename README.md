@@ -1,6 +1,8 @@
 ### Social Links
 
-[Instagram](https://instagram.com/yewshanooi) | [Discord](https://discordapp.com/users/266124126584963082/)
+[instagram.com](https://instagram.com/yewshanooi)
+[discord.com](https://discordapp.com/users/266124126584963082/)
+[reddit.com](https://www.reddit.com/user/javaruntimemc)
 
 ### Tools Used
 
